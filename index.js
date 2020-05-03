@@ -35,7 +35,11 @@ bot.on("message", async message => {
 
       const suggestchannel = bot.channels.find('id', 'channelId')
 
-      suggestchannel.send(suggestEmbed);
+      suggestchannel.send(suggestEmbed)
+      .then(function (suggestchannel) {
+        suggestchannel.react('✅');
+        suggestchannel.react('❌');
+      });
       return;
     });
   }
