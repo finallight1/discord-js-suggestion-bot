@@ -10,3 +10,5 @@ Open 'index.js' and search for (mainly its ctrl+f) channelId here. Then replace 
 How to find channel ID -> https://github.com/Chikachi/DiscordIntegration/wiki/How-to-get-a-token-and-channel-ID-for-Discord
 Afterwards you can change the messages and the commands but on my opinion everyting there is just fine!
 Thanks for using my suggestion bot!
+# Use
+After the setup, just open "start.bat" which will start the bot by the token you wrote in config.json
