@@ -13,5 +13,7 @@ Thanks for using my suggestion bot!
 # Use
 After the setup, just open "start.bat" which will start the bot by the token you wrote in config.json
 # Updates
-v0.0.1 03.05.2020 | Released the first version
-v0.0.2 03.05.2020 | Added reactions to the embed message
+# v0.0.1
+03.05.2020 | Released the first version
+# v0.0.2
+03.05.2020 | Added reactions to the embed message
